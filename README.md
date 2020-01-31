@@ -35,6 +35,8 @@ There is already a result for the first 10k epochs training used with these sett
 
 Or you can train yourself using these images.
 
+---------------------------------------
+
 #### Author of trained graph:
 
 **[Antonio Jose Carbajal Galindo - thonnysee]**
