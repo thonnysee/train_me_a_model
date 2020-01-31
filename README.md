@@ -2,18 +2,18 @@
 
 Family images for testing purposes using testing files from the internet to create the dataset.
 
-## Images
+# Images
 
 There are 80 Images to be used for training.
 There are 20 images for testing.
 
-## Labelling Software
+# Labelling Software
 
 As intended I used the Labellmg project to label all the images 1 by 1 
 
 [Labellmg](https://github.com/tzutalin/labelImg)
 
-## Labels
+# Labels
 
 In this training I used 7 classes for the training which are:
 
@@ -25,11 +25,11 @@ In this training I used 7 classes for the training which are:
 * grandmother
 * grandfather
 
-## Trained graph
+# Trained graph
 
 There is already a result for the first 10k epochs training used with these settings: 
 
-```
+```cmd
 /inference_graph/frozen_inference_graph.pb
 ```
 
